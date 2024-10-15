@@ -48,6 +48,8 @@ body{
     text-align: end;
     align-content: end;
     margin: 20px;
+    overflow: auto;
+    z-index: 1;
 }
 .buttons{
     display: grid;
